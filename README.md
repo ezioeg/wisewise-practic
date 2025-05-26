@@ -3,12 +3,9 @@ Wise Wise Practic is a technical test for React Native with Expo, where you are 
 
 ## Technologies Used
 ### Core
-- [Expo](https://expo.dev/) `v52.0.28`
-- [React](https://reactjs.org/) `v18.3.1`
-- [React Native](https://reactnative.dev/) `v0.76.6`
-
-### UI/Styling
-- [Dropdown](https://github.com/react-native-picker/picker) `v2.9.0`
+- [Expo](https://expo.dev/) `v53.0.9`
+- [React](https://reactjs.org/) `v19.0.0`
+- [React Native](https://reactnative.dev/) `v0.79.2`
 
 ### Utilities
 - fetch (Include from javascript)
