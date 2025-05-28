@@ -20,18 +20,23 @@ Install dependencies
 ## Run
 Start the app
 
-   ```bash
-    npx expo start
-   ```
+```bash
+npx expo start
+# or
+npm start
+```
+
+### Run for Android / iOS
+Scan the QR code with the Expo Go app on a physical device
 
 ### Run for Android
 ```bash
-npx expo run:android
+npm run android
 ```
 
 ### Run for iOS
 ```bash
-npx expo run:ios
+npm run ios
 ```
    
 ## Contributions
