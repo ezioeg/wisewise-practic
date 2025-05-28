@@ -26,15 +26,15 @@ npx expo start
 npm start
 ```
 
-### Run for Android / iOS
+### Run for Android / iOS (without command)
 Scan the QR code with the Expo Go app on a physical device
 
-### Run for Android
+### Run for Android (with command)
 ```bash
 npm run android
 ```
 
-### Run for iOS
+### Run for iOS (with command)
 ```bash
 npm run ios
 ```
