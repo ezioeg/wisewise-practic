@@ -26,17 +26,31 @@ npx expo start
 npm start
 ```
 
-### Run for Android / iOS (without command)
-Scan the QR code with the Expo Go app on a physical device
+### 📱 Option A: Use your phone with Expo Go
 
-### Run for Android (with command)
-```bash
-npm run android
-```
+1. Open the **Expo Go** app on your mobile device.
+2. Scan the QR code shown in the terminal or web browser.
+3. Your app will launch automatically in seconds!
 
-### Run for iOS (with command)
+---
+
+### 🖥️ Option B: Use an emulator
+
+Make sure you have an emulator running (Android Studio or Xcode).
+
+In the terminal where the bundler is running:
+
+- Press `a` to open the app in the **Android emulator**.
+- Press `i` to open the app in the **iOS simulator** (macOS only).
+
+---
+
+### 🌐 Option C: View in your browser (optional)
+
+You can also run the app in your browser using:
+
 ```bash
-npm run ios
+expo start --web
 ```
    
 ## Contributions
