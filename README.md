@@ -8,13 +8,12 @@ Wise Wise Practic is a technical test for React Native with Expo, where you are 
     <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Screenshot" width="200"/>
   </p>
 
-</details>
+    <p>
+    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Screenshot" width="200"/>
+  </p>
 
-<details>
-  <summary>📸 Click to see screenshot</summary>
-
-  <p>
-    <img src="./assets/screenshot.png" alt="App Screenshot" width="600"/>
+    <p>
+    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Screenshot" width="200"/>
   </p>
 
 </details>
