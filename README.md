@@ -2,18 +2,18 @@
 Wise Wise Practic is a technical test for React Native with Expo, where you are required to develop a single screen with a medical information card and related icons. The application must consume an API, fetch data, and display it in a dropdown. The evaluation focuses on React Native usage, API integration, and code optimization, all within a 2-hour time limit.
 
 <details>
-  <summary>📸 Click to see screenshots</summary>
+  <summary>📱 Android screenshots</summary>
+   <img src="https://github.com/user-attachments/assets/ac8ecccb-1eca-483a-8d4b-b62f276445db" alt="iOS Screenshot 1" width="400"/>
+    <img src="https://github.com/user-attachments/assets/a8ad6db1-98e0-45b3-bf89-2d01f030a069" alt="iOS Screenshot 2" width="400"/>
+  </p>
+</details>
 
+<details>
+  <summary>📱 iOS screenshots</summary>
   <p>
-    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Screenshot 1" width="400"/>
-    <img src="https://github.com/user-attachments/assets/cfc87408-177d-407f-a3f2-75deacb209c8" alt="Screenshot 2" width="400"/>
+    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Android Screenshot 1" width="400"/>
+    <img src="https://github.com/user-attachments/assets/cfc87408-177d-407f-a3f2-75deacb209c8" alt="Android Screenshot 2" width="400"/>
   </p>
-
-   <p>
-    <img src="https://github.com/user-attachments/assets/ac8ecccb-1eca-483a-8d4b-b62f276445db" alt="Screenshot 1" width="400"/>
-    <img src="https://github.com/user-attachments/assets/a8ad6db1-98e0-45b3-bf89-2d01f030a069" alt="Screenshot 2" width="400"/>
-  </p>
-
 </details>
 
 ## Technologies Used
