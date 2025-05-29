@@ -1,6 +1,8 @@
 # Wise Wise Practic
 Wise Wise Practic is a technical test for React Native with Expo, where you are required to develop a single screen with a medical information card and related icons. The application must consume an API, fetch data, and display it in a dropdown. The evaluation focuses on React Native usage, API integration, and code optimization, all within a 2-hour time limit.
 
+![515shots_so](https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d)
+
 ## Technologies Used
 ### Core
 - [Expo](https://expo.dev/) `v53.0.9`
