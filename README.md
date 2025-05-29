@@ -5,13 +5,13 @@ Wise Wise Practic is a technical test for React Native with Expo, where you are 
   <summary>📸 Click to see screenshots</summary>
 
   <p>
-    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Screenshot 1" width="500"/>
-    <img src="https://github.com/user-attachments/assets/cfc87408-177d-407f-a3f2-75deacb209c8" alt="Screenshot 2" width="500"/>
+    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Screenshot 1" width="400"/>
+    <img src="https://github.com/user-attachments/assets/cfc87408-177d-407f-a3f2-75deacb209c8" alt="Screenshot 2" width="400"/>
   </p>
 
    <p>
-    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Screenshot 1" width="500"/>
-    <img src="https://github.com/user-attachments/assets/cfc87408-177d-407f-a3f2-75deacb209c8" alt="Screenshot 2" width="500"/>
+    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Screenshot 1" width="400"/>
+    <img src="https://github.com/user-attachments/assets/cfc87408-177d-407f-a3f2-75deacb209c8" alt="Screenshot 2" width="400"/>
   </p>
 
 </details>
