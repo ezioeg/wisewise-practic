@@ -8,16 +8,16 @@ Technical test project developed with React Native and Expo, completed within a 
 
 <details>
   <summary>📱 Android screenshots</summary>
-   <img src="https://github.com/user-attachments/assets/ac8ecccb-1eca-483a-8d4b-b62f276445db" alt="iOS Screenshot 1" width="400"/>
-    <img src="https://github.com/user-attachments/assets/a8ad6db1-98e0-45b3-bf89-2d01f030a069" alt="iOS Screenshot 2" width="400"/>
+   <img src="https://github.com/user-attachments/assets/ac8ecccb-1eca-483a-8d4b-b62f276445db" alt="Android Card" width="400"/>
+    <img src="https://github.com/user-attachments/assets/a8ad6db1-98e0-45b3-bf89-2d01f030a069" alt="Android Modal" width="400"/>
   </p>
 </details>
 
 <details>
   <summary>📱 iOS screenshots</summary>
   <p>
-    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="Android Screenshot 1" width="400"/>
-    <img src="https://github.com/user-attachments/assets/cfc87408-177d-407f-a3f2-75deacb209c8" alt="Android Screenshot 2" width="400"/>
+    <img src="https://github.com/user-attachments/assets/94ae562f-3137-4064-a8a7-c48f4e06387d" alt="iOS Card" width="400"/>
+    <img src="https://github.com/user-attachments/assets/cfc87408-177d-407f-a3f2-75deacb209c8" alt="iOS Modal" width="400"/>
   </p>
 </details>
 
